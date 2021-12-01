@@ -10,3 +10,7 @@ Description: This package include a set of functions that enables the user to
 License: MIT
 Encoding: UTF-8
 LazyData: true
+Imports:
+    jsonlite,
+    ghql,
+    tidyverse
