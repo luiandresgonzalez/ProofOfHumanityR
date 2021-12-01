@@ -14,3 +14,4 @@ Imports:
     jsonlite,
     ghql,
     tidyverse
+RoxygenNote: 7.1.2
