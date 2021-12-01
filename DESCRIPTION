@@ -1,11 +1,12 @@
 Package: ProofOfHumanityR
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
+Title: An R Package for Proof of Humanity analytics
+Version: 0.0.1
+Author: ludoviko.eth
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Description: This package include a set of functions that enables the user to 
+    perform analytics about submissions, challenges, vouches, and others. 
+    It is in its very early stages so expect it to have lots of bugs. 
+License: MIT
 Encoding: UTF-8
 LazyData: true
